@@ -22,6 +22,7 @@
      `'                  `OObNNNNNdOO'                   `'
                            `~OOOOO~'  
 ```
+</td>
 <td valign="top" width="100%">
 ```diff
 + PROFILE
@@ -44,7 +45,6 @@
 + CONTACT
 . Email: ....... vv.danylenko@ukma.edu.ua
 . LinkedIn: .... in/victor-danylenko
-```
 
 </td>
 </tr>
