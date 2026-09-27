@@ -45,7 +45,7 @@
 . Courses: ..... Codefinity, CS50
 
 + INTERESTS
-. Focus: ....... Algorithms, ML, Engineering
+. Focus: ....... Algorithms, ML, Data
 . Fun: ......... Sports, Hardware, QA
 
 + CONTACT
