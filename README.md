@@ -41,6 +41,7 @@
 
 + EDUCATION
 . Uni: ......... NaUKMA (CS'30)
+. Courses: ..... Codefinity, CS50
 
 + INTERESTS
 . Focus: ....... Algorithms, ML, Engineering
