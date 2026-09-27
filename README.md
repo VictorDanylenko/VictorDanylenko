@@ -35,16 +35,16 @@
 . Uptime: ...... 17 yrs
 
 + TECH STACK
-. AI/ML: ....... Python -> PyTorch, TF, YOLO
-. Dev: ......... Node.js, Git, SQL
-. Languages: ... Ukrainian, English
+. AI/ML: ....... PyTorch, TensorFlow, YOLO
+. Dev: ......... Python Flask, Git, SQL
+. Languages: ... Ukrainian, English, Spanish
 
 + EDUCATION
 . Uni: ......... NaUKMA (CS'30)
 
 + INTERESTS
-. Focus: ....... Algo, ML
-. Fun: ......... Football
+. Focus: ....... Algorithms, ML, Engineering
+. Fun: ......... Sports, Hardware, QA
 
 + CONTACT
 . Email: ....... vv.danylenko@ukma.edu.ua
