@@ -15,33 +15,30 @@
 <MMP'     `~YMMa_   YOOo   @  OOO  @   oOOP   _adMP~'      `YMM>
              `YMMMM\`OOOo     OOO     oOOO'/MMMMP'
      ,aa.     `~YMMb `OOOb._,dOOOb._,dOOO'dMMP~'       ,aa.
-   ,dMYYMba._         `OOOOOOOOOOOOOOOOO'          _,adMYYMb.
-  ,MP'   `YMMba._      OOOOOOOOOOOOOOOOO       _,adMMP'   `YM.
+   ,dMYYMbaD\_        `OOOOOOOOOOOOOOOOO'          /DBadMYYMb.
   MP'        ~YMMMba._ YOOOOPVVVVVYOOOOP  _,adMMMMP~       `YM
   YMb           ~YMMMM\`OOOOI`````IOOOOO'/MMMMP~           dMP
    `Mb.           `YMMMb`OOOI,,,,,IOOOO'dMMMP'           ,dM'
      `'                  `OObNNNNNdOO'                   `'
-                           `~OOOOO~'   TISSUE
-
+                           `~OOOOO~'  
 ```
-
-</td>
 <td valign="top" width="100%">
-
 ```diff
 + PROFILE
 . OS: .......... Ubuntu / Win 11
 . Location: .... Kyiv, UA
+. Uptime: ...... 17 yrs
 
 + TECH STACK
 . AI/ML: ....... Python -> PyTorch, TF, YOLO
 . Dev: ......... Node.js, Git, SQL
+. Languages: ... Ukrainian, English
 
 + EDUCATION
 . Uni: ......... NaUKMA (CS'30)
 
 + INTERESTS
-. Dev: ......... Algo, ML
+. Focus: ....... Algo, ML
 . Fun: ......... Football
 
 + CONTACT
