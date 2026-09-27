@@ -3,44 +3,26 @@
 <td valign="top">
 
 ```text
-                                                                    ..;===+.
-                                                                .:=iiiiii=+=
-                                                             .=i))=;::+)i=+,
-                                                          ,=i);)I)))I):=i=;
-                                                       .=i==))))ii)))I:i++
-                                                     +)+))iiiiiiii))I=i+:'
-                                .,:;;++++++;:,.       )iii+:::;iii))+i='
-                             .:;++=iiiiiiiiii=++;.    =::,,,:::=i));=+'
-                           ,;+==ii)))))))))))ii==+;,      ,,,:=i))+=:
-                         ,;+=ii))))))IIIIII))))ii===;.    ,,:=i)=i+
-                        ;+=ii)))IIIIITIIIIII))))iiii=+,   ,:=));=,
-                      ,+=i))IIIIIITTTTTITIIIIII)))I)i=+,,:+i)=i+
-                     ,+i))IIIIIITTTTTTTTTTTTI))IIII))i=::i))i='
-                    ,=i))IIIIITLLTTTTTTTTTTIITTTTIII)+;+i)+i`
-                    =i))IIITTLTLTTTTTTTTTIITTLLTTTII+:i)ii:'
-                   +i))IITTTLLLTTTTTTTTTTTTLLLTTTT+:i)))=,
-                   =))ITTTTTTTTTTTLTTTTTTLLLLLLTi:=)IIiii;
-                  .i)IIITTTTTTTTLTTTITLLLLLLLT);=)I)))))i;
-                  :))IIITTTTTLTTTTTTLLHLLLLL);=)II)IIIIi=:
-                  :i)IIITTTTTTTTTLLLHLLHLL)+=)II)ITTTI)i=
-                  .i)IIITTTTITTLLLHHLLLL);=)II)ITTTTII)i+
-                  =i)IIIIIITTLLLLLLHLL=:i)II)TTTTTTIII)i'
-                +i)i)))IITTLLLLLLLLT=:i)II)TTTTLTTIII)i;
-              +ii)i:)IITTLLTLLLLT=;+i)I)ITTTTLTTTII))i;
-             =;)i=:,=)ITTTTLTTI=:i))I)TTTLLLTTTTTII)i;
-           +i)ii::,  +)IIITI+:+i)I))TTTTLLTTTTTII))=,
-         :=;)i=:,,    ,i++::i))I)ITTTTTTTTTTIIII)=+'
-       .+ii)i=::,,   ,,::=i)))iIITTTTTTTTIIIII)=+
-      ,==)ii=;:,,,,:::=ii)i)iIIIITIIITIIII))i+:'
-     +=:))i==;:::;=iii)+)=  `:i)))IIIII)ii+'
-   .+=:))iiiiiiii)))+ii;
-  .+=;))iiiiii)));ii+
- .+=i:)))))))=+ii+
-.;==i+::::=)i=;
-,+==iiiiii+,
-`+=+++;`
+     _                      _______                      _
+  _dMMMb._              .adOOOOOOOOOba.              _,dMMMb_
+ dP'  ~YMMb            dOOOOOOOOOOOOOOOb            aMMP~  `Yb
+ V      ~"Mb          dOOOOOOOOOOOOOOOOOb          dM"~      V
+          `Mb.       dOOOOOOOOOOOOOOOOOOOb       ,dM'
+           `YMb._   |OOOOOOOOOOOOOOOOOOOOO|   _,dMP'
+      __     `YMMM| OP'~"YOOOOOOOOOOOP"~`YO |MMMP'     __
+    ,dMMMb.     ~~' OO     `YOOOOOP'     OO `~~     ,dMMMb.
+ _,dP~  `YMba_      OOb      `OOO'      dOO      _aMMP'  ~Yb._
+<MMP'     `~YMMa_   YOOo   @  OOO  @   oOOP   _adMP~'      `YMM>
+             `YMMMM\`OOOo     OOO     oOOO'/MMMMP'
+     ,aa.     `~YMMb `OOOb._,dOOOb._,dOOO'dMMP~'       ,aa.
+   ,dMYYMba._         `OOOOOOOOOOOOOOOOO'          _,adMYYMb.
+  ,MP'   `YMMba._      OOOOOOOOOOOOOOOOO       _,adMMP'   `YM.
+  MP'        ~YMMMba._ YOOOOPVVVVVYOOOOP  _,adMMMMP~       `YM
+  YMb           ~YMMMM\`OOOOI`````IOOOOO'/MMMMP~           dMP
+   `Mb.           `YMMMb`OOOI,,,,,IOOOO'dMMMP'           ,dM'
+     `'                  `OObNNNNNdOO'                   `'
+                           `~OOOOO~'   TISSUE
 
-'
 ```
 
 </td>
