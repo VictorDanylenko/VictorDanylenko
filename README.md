@@ -54,11 +54,3 @@
 </td>
 </tr>
 </table>
-
-+ CONTACT
-. Email: ....... vv.danylenko@ukma.edu.ua
-. LinkedIn: .... in/victor-danylenko
-
-</td>
-</tr>
-</table>
